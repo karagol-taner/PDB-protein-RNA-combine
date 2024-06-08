@@ -1,5 +1,5 @@
 # PDB-protein-RNA-combine
-This Python script combines a protein PDB file and an RNA PDB file into a single PDB file with specified chain IDs for each molecule. The protein is assigned chain ID `A`, and the RNA is assigned chain ID `B`.
+This Python script combines a protein PDB file and an RNA PDB file into a single PDB file with specified chain IDs for each molecule. This combined PDB file is useful for docking studies those performed with RosettaDock. The protein is assigned chain ID `A`, and the RNA is assigned chain ID `B`.
 
 
 ## Usage
